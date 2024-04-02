@@ -1,15 +1,13 @@
 import React from "react";
 import { ScrollView, View } from "react-native";
-import Ms01 from "../components/Mustwatch/Ms01";
+import Bb01 from "../components/BabyLooneyTunes/Bb01";
 
 
-
-export default function Mustwatch() {
+export default function BabyLooneyTunes() {
     return (
 
         <ScrollView>
-            <Ms01/>
-
+            <Bb01/>
         </ScrollView >
     );
 }

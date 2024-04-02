@@ -9,7 +9,7 @@ export default function Mn06(props) {
         { "title": "Extreme Job", "uri": "https://i.pinimg.com/564x/19/e0/4b/19e04bca920af9d96674f9f98c5bf27d.jpg" },
         { "title": "The Medium", "uri": "https://raw.githubusercontent.com/JN-JANE/image/main/The%20Medium%20(%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%A3%E0%B8%87).jpg" },
         { "title": "Parasite", "uri": "https://i.pinimg.com/736x/5e/24/ca/5e24ca5266644f92d331fc6e88930b85.jpg" },
-        { "title": "Forest Gump", "uri": "https://i.pinimg.com/564x/3d/5c/e5/3d5ce5668b07bf8dee25ade268ff07e0.jpg" },
+        { "title": "Forrest Gump", "uri": "https://i.pinimg.com/564x/3d/5c/e5/3d5ce5668b07bf8dee25ade268ff07e0.jpg" },
 
     ];
 

@@ -9,7 +9,7 @@ export default function Mv07() {
                 style={{ width: 400, height: 250, borderRadius: 15 }}
             />
             <View>
-                <Text style={{ fontSize: 20 }}>Forest Gump</Text>
+                <Text style={{ fontSize: 20 }}>Forrest Gump</Text>
 
             </View>
 

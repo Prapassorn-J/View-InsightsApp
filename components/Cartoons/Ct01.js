@@ -6,7 +6,7 @@ export default function Ct01() {
     return (
 
         <View style={{ flex: 1 }}>
-            <View style={{ backgroundColor: "#A5CEDB", height: 100, borderBottomLeftRadius: 45, borderBottomRightRadius: 45, justifyContent: 'center', alignItems: 'center' }}>
+            <View style={{ backgroundColor: "#95C8D7", height: 100, borderBottomLeftRadius: 45, borderBottomRightRadius: 45, justifyContent: 'center', alignItems: 'center' }}>
                 <Text style={{ fontSize: 60 }}>Cartoons</Text>
             </View>
         </View>
