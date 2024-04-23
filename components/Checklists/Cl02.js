@@ -10,7 +10,10 @@ export default function Cl02() {
 
 
         <View style={{ flex: 1, alignItems: 'center' }}>
-            <Text style={{ padding: 15, fontSize: 35 }}>แปะ!! ซีรีส์เกาหลี 30 เรื่อง</Text>
+            <View style={{
+                backgroundColor: "#B4E5FF",width:450, height: 150, borderBottomLeftRadius: 0, borderBottomRightRadius: 0, justifyContent: 'center', alignItems: 'center' }}>
+            <Text style={{ padding: 15, fontSize: 35 }}>แปะ!! หนัง ซีรีส์ การ์ตูน แอนิเมชัน 20 เรื่อง ที่ควรเก็บไว้ในChecklist </Text>
+        </View>
 
         </View>
     );

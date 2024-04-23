@@ -104,7 +104,7 @@ export default function Checklists() {
             />
             <TouchableOpacity
                 style={{
-                    backgroundColor: "lightblue",
+                        backgroundColor: "#B4E5FF",
                     padding: 10,
                     width: 50,
                     height: 50,

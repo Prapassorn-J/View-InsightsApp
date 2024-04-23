@@ -16,9 +16,7 @@ export default function Cl01(props) {
                 <FontAwesome name={props.item.completed ? "check-square" : "square-o"} size={23} />
             </TouchableOpacity>
             <View style={{ flex: 12 }}>
-                <TextInput style={{ fontSize: 20, color: 'black' }} value={props.item.title} placeholder="Add your entertainment " onChangeText={(new_title) => props.onUpdate(new_title, props.item.id)} />
-                {/* <Text style= {{fontSize:20, color:'black'}}>18 again</Text> */}
-                {/* <Text style={{ fontSize: 20, color: 'black' }}> goblin</Text> */}
+                <TextInput style={{ fontSize: 20, color: 'black' }} value={props.item.title} placeholder="Add your list " onChangeText={(new_title) => props.onUpdate(new_title, props.item.id)} />
             </View>
             <TouchableOpacity style={{ flex: 1 }} onPress={() => props.onDelete(props.item.id)} >
                 <FontAwesome name="trash" size={23} />
