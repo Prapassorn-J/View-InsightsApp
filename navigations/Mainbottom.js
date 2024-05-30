@@ -7,6 +7,7 @@ import MainStack from './MainStack';
 import Checklists from '../screens/Checklists';
 
 
+
 const Tab = createBottomTabNavigator();
 
 export default function Mainbottom() {
@@ -39,6 +40,9 @@ export default function Mainbottom() {
                 }}
 
             />
+            
+
+
 
         </Tab.Navigator>
     );

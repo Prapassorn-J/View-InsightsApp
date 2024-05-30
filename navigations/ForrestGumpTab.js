@@ -120,7 +120,7 @@ function LeafScreen() {
 
 
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
-                <Text style={{ padding: 15, fontSize: 28 }}>8 สิ่ง ที่คุณสามารถเรียนรู้ได้จากหนังเรื่อง “Forest Gump (1994)”</Text>
+                <Text style={{ padding: 15, fontSize: 28 }}>8 สิ่ง ที่คุณสามารถเรียนรู้ได้จากหนังเรื่อง “Forrest Gump (1994)”</Text>
             </View>
 
             <View>

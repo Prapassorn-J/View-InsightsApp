@@ -154,13 +154,13 @@ function LeafScreen() {
                 <Text style={{ padding:15, fontSize:25}}>ข้อคิดจากกังฟูแพนด้า</Text>
                 
 
-                <Image source={{ uri: "https://scontent.fbkk12-4.fna.fbcdn.net/v/t31.18172-8/13680101_1760053344273953_5487164877679952912_o.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG41DZUnyYR-5kS-Btlrgpa9mwYWYECyu32bBhZgQLK7WwM0HA0Y-FvEyICIBG-2qtXmTF4P1yfip3tk4JMnt0-&_nc_ohc=0EvbMVpbBQIAb5oHS2T&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfAMEmGRTebEY2hkgwzNODmI-Y2Se9IEF0KjqP63mmtXtQ&oe=66360A4A" }}
+                <Image source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/13680101_1760053344273953_5487164877679952912_o.jpg" }}
                     style={{ width: 450, height: 440, marginTop: 15 }} />
 
-                <Image source={{ uri: "https://scontent.fbkk12-3.fna.fbcdn.net/v/t31.18172-8/13913597_1762436637368957_6559108619393349201_o.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG5TWr9GYTbfxfVaJqFitNs5uB3OJUS6Fzm4Hc4lRLoXJc_ua4A-JUFsACcWXXEgp-4bL3sg8WmUUwqAaW3ZpVa&_nc_ohc=zmjqDWE8gsYAb4panma&_nc_ht=scontent.fbkk12-3.fna&oh=00_AfC1qKKfY_yMOcKW0yh3A5JtIiRB5hKQ8mU9WjGg0syBwA&oe=6635D23E" }}
+                <Image source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/13710704_1755193654759922_928933005495373_o.jpg" }}
                     style={{ width: 450, height: 440, marginTop: 15 }} />
 
-                <Image source={{ uri: "https://scontent.fbkk8-4.fna.fbcdn.net/v/t31.18172-8/13710704_1755193654759922_928933005495373_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGRX1r8rtItvdqqvVLQ7FY2NiyjJb4-LwI2LKMlvj4vAnKfSDDSJsBtNFbHgbLcEwIhhtaDRXHkjHffyBTKruTA&_nc_ohc=fWO10wJjOU0Ab5u_By4&_nc_ht=scontent.fbkk8-4.fna&oh=00_AfA-6QcTS-0DhA-141IpD4oDF91rW2yhNeyGC2lQ-lNP2w&oe=6635D265" }}
+                <Image source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/13913597_1762436637368957_6559108619393349201_o.jpg" }}
                     style={{ width: 450, height: 440, marginTop: 15 }} />
 
             </View>

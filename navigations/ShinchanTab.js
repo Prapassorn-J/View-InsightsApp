@@ -186,31 +186,31 @@ function LeafScreen() {
         <ScrollView>
         <View style={{ flex: 1, alignItems: 'center' }}>
                 <Image
-                    source={{ uri: "https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/307158455_852989406074414_2967407830903985626_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHMZ0sHyUlVN6r5KLX6gf7GdXOzPyxsNGx1c7M_LGw0bGmTtwB3RNwc2SecLmb-s31cAVse6So4lt-0OoAN9XKz&_nc_ohc=jzf6C4V96jAAb6nsKUP&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfATqtGthkaBYKNGAbk9NlaRzU5aoFQY2pWTHWPJTm6unA&oe=662D99A6" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/307158455_852989406074414_2967407830903985626_n.jpg" }}
                     style={{ width: '100%', height:300 }}
                 />
 
             <Image
-                    source={{ uri: "https://scontent.fbkk9-2.fna.fbcdn.net/v/t39.30808-6/307017414_852990809407607_2397237978625847215_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFFWtWC8k4Ifbo42ovgmn1Xi6-A4dovFHuLr4Dh2i8Ue8f6fdoo1PI17Il1k7Lc9FXnA-I7p9ZYYzCgCCng1ZFt&_nc_ohc=Er3Cl8er7ZEAb56YvGy&_nc_ht=scontent.fbkk9-2.fna&oh=00_AfB0f6F7quEAbsXLLx5ot6quS-2g_8KOqHRKmDQcx_gZOg&oe=662D8834" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/307017414_852990809407607_2397237978625847215_n.jpg" }}
                 style={{ width:'100%', height: 500, marginTop:15 }}
             />
            
             <Image
-                    source={{ uri: "https://scontent.fbkk12-3.fna.fbcdn.net/v/t39.30808-6/307168333_852990876074267_6820654656112210895_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHEfjYN16Xk_ZqgJci4IW5Jo6J1TnSscKGjonVOdKxwoY5kQnrlU7hvEMFgxEp6AuStoOXawlQG4HABXwb8kQPB&_nc_ohc=_rcMvE4OeskAb75bWSN&_nc_oc=Adhme-xg-Cn3rnXffSqwkIW9Yojf9UWaWFLLVEzIEqud0FFp5QFqLQwz-q4Gp8CY-tYVnqRAOKPoefpZ0L1ZLzH_&_nc_ht=scontent.fbkk12-3.fna&oh=00_AfB-MSQ620hZNRmDA3is-yFFjWEBe5O7LmZ8kY6c4IKd9w&oe=662D7831" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/307168333_852990876074267_6820654656112210895_n.jpg" }}
                 style={{ width: '100%', height: 500, marginTop:15 }}
             />
 
                 <Image
-                    source={{ uri: "https://scontent.fbkk12-5.fna.fbcdn.net/v/t39.30808-6/306948378_852990922740929_8386960874946053287_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFkmo0scE8nrYl_OFYTlFJLnpC33_SYedaekLff9Jh51sWR9lySs__0eQmXlg_kLhtRmZ1B4dij8gvXarDZ3A32&_nc_ohc=zrJkQtZBILkAb5kRUth&_nc_ht=scontent.fbkk12-5.fna&oh=00_AfBuBE-M9vKJTH-mFYGXy3FmYPi4xBrlVMbTv_x66IHB6A&oe=662D9226" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/306948378_852990922740929_8386960874946053287_n.jpg" }}
                     style={{ width: '100%', height: 500, marginTop: 15 }}
                 />
 
                 <Image
-                    source={{ uri: "https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/307011992_852990969407591_7533067714564212983_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGiyBeJKs4hFal150EDxX8ja4yFIeKwMKZrjIUh4rAwphWSqB_LbJR17PaKI52T8L1EI1Jsf6GQFZTXmrHi-Wo1&_nc_ohc=kszf_O62x1wAb5rDGxr&_nc_ht=scontent.fbkk8-4.fna&oh=00_AfCg57cTuby46X7c3WUj5OHG92O2Y838G6PitnnwhDp1KA&oe=662D7CA6" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/307011992_852990969407591_7533067714564212983_n.jpg" }}
                     style={{ width: '100%', height: 500, marginTop: 15 }}
                 />
                 <Image
-                    source={{ uri: "https://scontent.fbkk12-1.fna.fbcdn.net/v/t39.30808-6/307211627_852991062740915_3783008435562997600_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFsh960dRKI5-_RYfhm0bT48jTKwVoSenjyNMrBWhJ6eH3BDZsEUhEgNTjBtC1B0BpksR19KHKJUeLjGaJ6Iwap&_nc_ohc=txVm-Q7tQaMAb4Hj9aN&_nc_ht=scontent.fbkk12-1.fna&oh=00_AfD2iIoAKXopMC9LhLjoFGnlKPHmikaedVL_7zvzLRSyWA&oe=662D9220" }}
+                    source={{ uri: "https://raw.githubusercontent.com/JN-JANE/image/main/307211627_852991062740915_3783008435562997600_n.jpg" }}
                     style={{ width: '100%', height: 500, marginTop: 15 }}
                 />
         </View>

@@ -12,7 +12,8 @@ export default function Ms01() {
                 </View>
             </View>
 
-                <Text style={{marginTop:25, fontSize:20, padding:10}}>1. START-UP : สตาร์ทอัพ (2020)</Text>
+            <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>1. START-UP : สตาร์ทอัพ (2020)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.0/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>    
                 <Image source={{ uri: "https://i.mydramalist.com/ByQ25_3f.jpg" }}
                     style={{ width:450, height:580, marginTop: 15 }} />
@@ -20,6 +21,7 @@ export default function Ms01() {
             </View>
             
             <Text style={{ marginTop: 25, fontSize: 20, padding:10 }}>2. TALE OF THE NINE TAILED : เทพบุตรจิ้งจอกเก้าหาง (2021)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 7.9/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2019/09/Pic-6-9.jpg" }}
                     style={{ width: 450, height: 620, marginTop: 15 }} />
@@ -27,6 +29,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>3. ITAEWON CLASS : ธุรกิจปิดเกมแค้น (2020)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.2/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://mushroomtravelpage.b-cdn.net/wp-content/uploads/2019/09/Pic-9-3-719x1024.jpg" }}
                     style={{ width: 450, height: 620, marginTop: 15 }} />
@@ -34,6 +37,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>4. 18 AGAIN (2020)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.2/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i.pinimg.com/564x/05/ab/31/05ab31c21da544d6858cb948acc26ad1.jpg" }}
                     style={{ width: 450, height: 620, marginTop: 15 }} />
@@ -41,6 +45,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>5.GOBLIN (2016)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.6/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i.pinimg.com/564x/cc/2f/80/cc2f8002ca1ca32af8f0bebdb986d831.jpg" }}
                     style={{ width: 450, height: 625, marginTop: 15 }} />
@@ -48,6 +53,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>6.REPLY 1988 (2015)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 9.1/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i0.wp.com/www.korseries.com/wp-content/uploads/2017/08/Reply1988.jpg?w=1352&ssl=1" }}
                     style={{ width: 450, height: 350, marginTop: 15 }} />
@@ -57,6 +63,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>7. HOSPITAL PLAYLIST (2020)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.8/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i.pinimg.com/564x/f7/c1/0f/f7c10f5609113a273407b126b05588e9.jpg" }}
                     style={{ width: 450, height: 640, marginTop: 15 }} />
@@ -64,6 +71,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>8. POLICE UNUVERSITY (2021)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 7.2/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i.pinimg.com/564x/3c/a3/89/3ca3892c06e04716b61fa02a8a4c530a.jpg" }}
                     style={{ width: 450, height: 640, marginTop: 15 }} />
@@ -71,6 +79,7 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>9. The Good Bad Mother: แม่ดี แม่ร้าย (2023)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.4/10 </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
                 <Image source={{ uri: "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/08/The-good-bad-mother-jtbc-cover-150323.jpg?w=2000&ssl=1" }}
                     style={{ width: 450, height: 400, marginTop: 15 }} />
@@ -78,12 +87,17 @@ export default function Ms01() {
             </View>
 
             <Text style={{ marginTop: 25, fontSize: 20, padding: 10 }}>10. TAXI DRIVER SEASON 1 (2021) & 2 (2023)</Text>
+            <Text style={{ marginTop: 5, fontSize: 20, padding: 5 }}>ratig : 8.2/10  </Text>
             <View style={{ alignItems: 'center', justifyContent: 'center' }}>
-                <Image source={{ uri: "https://i0.wp.com/www.korseries.com/wp-content/uploads/2021/02/Taxi-Driver-2-SBS-Cover-260123.jpg?w=2000&ssl=1" }}
-                    style={{ width: 450, height: 290, marginTop: 15 }} />
-                <Text style={{ fontSize: 20, color: '#828282', padding: 10 }}>   ซีรีส์ที่สร้างจากเว็บตูนในชื่อเดียวกัน เล่าเรื่องราวเกี่ยวกับคนขับรถแท็กซี่ ที่ไม่ได้ทำงานในบริษัทรถแท็กซี่ทั่ว ๆ ไป แต่ว่าเป็นบริษัทที่ให้บริการพิเศษ นั่นคือ การรับหน้าที่เป็นตัวแทนแก้แค้นให้กับผู้โดยสาร
-
-</Text>
+                <Image
+                    source={{ uri: "https://i0.wp.com/www.korseries.com/wp-content/uploads/2021/02/Taxi-Driver-2-SBS-Cover-260123.jpg?w=2000&ssl=1" }}
+                    style={{ width: 450, height: 290, marginTop: 15 }}
+                />
+                <Text style={{ fontSize: 20, color: '#828282', padding: 10 }}>
+                    ซีรีส์ที่สร้างจากเว็บตูนในชื่อเดียวกัน เล่าเรื่องราวเกี่ยวกับคนขับรถแท็กซี่
+                    ที่ไม่ได้ทำงานในบริษัทรถแท็กซี่ทั่ว ๆ ไป แต่ว่าเป็นบริษัทที่ให้บริการพิเศษ
+                    นั่นคือ การรับหน้าที่เป็นตัวแทนแก้แค้นให้กับผู้โดยสาร
+                </Text>
             </View>
         </ScrollView >
     );
